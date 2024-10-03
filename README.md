@@ -1,6 +1,4 @@
-# 모던자바스크립트 Deep Dive 스터디
-
-<!-- <img src="./images/img.png" width="50%" alt="책 표지" /> -->
+# 모던 리액트 Deep Dive 스터디
 
 ## 🏃 스터디 멤버
 
@@ -9,7 +7,7 @@
 |      [이찬형](https://github.com/luckylooky2)      |     [배준성](https://github.com/wet6123)      |      [이대진](https://github.com/daejlee)       |
 | ![](https://github.com/YeonSeong-Lee.png?size=100) | ![](https://github.com/GulSam00.png?size=100) | ![](https://github.com/mingi1123.png?size=100)  |
 |     [이성연](https://github.com/YeonSeong-Lee)     |     [함상준](https://github.com/GulSam00)     |     [권민기](https://github.com/mingi1123)      |
-|  ![](https://github.com/joonho0410.png?size=100)   |  ![](https://github.com/lyssoi.png?size=100)  | ![](https://github.com/Eomhyunjun.png?size=100) |
+|                       ![]()                        |  ![](https://github.com/lyssoi.png?size=100)  | ![](https://github.com/Eomhyunjun.png?size=100) |
 |      [전준호](https://github.com/joonho0410)       |       [정솔](https://github.com/lyssoi)       |     [엄현준](https://github.com/Eomhyunjun)     |
 
 ## ⏰ 스터디 시간
@@ -35,7 +33,7 @@
 - 진행자가 먼저 공유할 내용(질문)을 발표합니다.
 - 각자 적어온 질문 공유, 답변해봅니다.
 - 공부해 온 주제에 대해 자유롭게 토론하며 인사이트를 공유합니다.
-- 정적이 흐르면 진행자가 흐름을 유도해주기~
+- 정적이 흐르면 진행자가 흐름 유도해주기~
 
 ## ✨ 스터디 규칙
 
