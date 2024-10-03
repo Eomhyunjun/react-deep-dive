@@ -2,13 +2,50 @@
 
 ## 🏃 스터디 멤버
 
-|  ![](https://github.com/luckylooky2.png?size=100)  | ![](https://github.com/wet6123.png?size=100)  |  ![](https://github.com/daejlee.png?size=100)   |
-| :------------------------------------------------: | :-------------------------------------------: | :---------------------------------------------: |
-|      [이찬형](https://github.com/luckylooky2)      |     [배준성](https://github.com/wet6123)      |      [이대진](https://github.com/daejlee)       |
-| ![](https://github.com/YeonSeong-Lee.png?size=100) | ![](https://github.com/GulSam00.png?size=100) | ![](https://github.com/mingi1123.png?size=100)  |
-|     [이성연](https://github.com/YeonSeong-Lee)     |     [함상준](https://github.com/GulSam00)     |     [권민기](https://github.com/mingi1123)      |
-|                       ![]()                        |  ![](https://github.com/lyssoi.png?size=100)  | ![](https://github.com/Eomhyunjun.png?size=100) |
-|      [전준호](https://github.com/joonho0410)       |       [정솔](https://github.com/lyssoi)       |     [엄현준](https://github.com/Eomhyunjun)     |
+<table>
+<tr>
+  <td align="center">
+    <img src="https://github.com/luckylooky2.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/luckylooky2">이찬형</a>
+  </td>
+  <td align="center">
+    <img src="https://github.com/wet6123.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/wet6123">배준성</a>
+  </td>
+  <td align="center">
+    <img src="https://github.com/daejlee.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/daejlee">이대진</a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://github.com/YeonSeong-Lee.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/YeonSeong-Lee">이성연</a>
+  </td>
+  <td align="center">
+    <img src="https://github.com/GulSam00.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/GulSam00">함상준</a>
+  </td>
+  <td align="center">
+    <img src="https://github.com/mingi1123.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/mingi1123">권민기</a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://avatars.githubusercontent.com/u/76806109?v=4?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/joonho0410">전준호</a>
+  </td>
+  <td align="center">
+    <img src="https://github.com/lyssoi.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/lyssoi">정솔</a>
+  </td>
+  <td align="center">
+    <img src="https://github.com/Eomhyunjun.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/Eomhyunjun">엄현준</a>
+  </td>
+</tr>
+</table>
 
 ## ⏰ 스터디 시간
 
