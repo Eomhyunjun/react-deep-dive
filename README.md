@@ -1,5 +1,8 @@
 # 모던 리액트 Deep Dive 스터디
 
+<img src="https://github.com/user-attachments/assets/d07a8602-7c46-482a-9f1b-175948f2432d" width="50%" alt="책 표지" />
+
+
 ## 🏃 스터디 멤버
 
 <table>
